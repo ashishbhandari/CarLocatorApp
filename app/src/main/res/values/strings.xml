@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CarLocator</string>
+
+    <string name="state_badge_label">State badge</string>
+    <string name="list_not_available">No Data Available</string>
+    <string name="map_not_ready">Map is not ready</string>
+
+</resources>
