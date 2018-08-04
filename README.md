@@ -1,3 +1,3 @@
 CarLocator Android App
 
-Objective to develop an application using Kotlin and MMVM model with help of ViewModel and LiveData.
+This project was written with the aim to show how I made things work together in my own MVVM architecture with Android Architecture Components.
